@@ -17,6 +17,7 @@ int main() {
         name1.erase (name1.begin()+10, name1.end());
         cout << "Your name has been changed to " << name1 << endl;
     }
-
+    if (name1.length() < 10)t8
+        cout << name1 << endl;
     return 0;
 }
