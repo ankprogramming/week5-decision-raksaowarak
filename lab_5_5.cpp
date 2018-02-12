@@ -90,6 +90,5 @@ int main () {
 
   // สรุปผลคะแนนและพลังชีวิต
   cout << "Congratulations! You win the game with " << score << "Score. See you next time on next game. GG." << endl;
-
   return 0;
 }
